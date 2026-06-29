@@ -1,4 +1,3 @@
-```markdown
 <div align="center"><h1>&nbsp;Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism</h1></div>
 
 <p align="center">
