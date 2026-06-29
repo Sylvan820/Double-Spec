@@ -2,9 +2,7 @@
 
 <p align="center">
 | <a href="https://arxiv.org/abs/2601.05524"><b>Paper (ACL 2026)</b></a> | 
-<a href="双重检索并行投机采样 - 沐风rs的文章 - 知乎
-https://zhuanlan.zhihu.com/p/1994067174113956612"><b>知乎</b>
-https://zhuanlan.zhihu.com/p/1994067174113956612</a> |
+<a href="https://zhuanlan.zhihu.com/p/1994067174113956612"><b>知乎</b></a> |
 </p>
 
 *News* 🔥
