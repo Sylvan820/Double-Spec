@@ -1,8 +1,9 @@
+```markdown
 <div align="center"><h1>&nbsp;Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism</h1></div>
 
 <p align="center">
-| <a href="#"><b>Paper (ACL 2026)</b></a> | 
-<a href="#"><b>Blog</b></a> | <a href="#"><b>知乎</b></a> |
+| <a href="https://arxiv.org/abs/2601.05524"><b>Paper (ACL 2026)</b></a> | 
+<a href="#"><b>知乎</b></a> |
 </p>
 
 *News* 🔥
@@ -147,7 +148,17 @@ If you find our work useful in your research, please consider citing our ACL 202
     author={Sylvan820 and [Other Authors]},
     booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)},
     year={2026},
-    url={[https://github.com/Sylvan820/Double1](https://github.com/Sylvan820/Double1)}
+    url={[https://arxiv.org/abs/2601.05524](https://arxiv.org/abs/2601.05524)}
+}
+
+@misc{sylvan8202026doublebreakingaccelerationlimit,
+      title={Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism}, 
+      author={Sylvan820 and [Other Authors]},
+      year={2026},
+      eprint={2601.05524},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={[https://arxiv.org/abs/2601.05524](https://arxiv.org/abs/2601.05524)}, 
 }
 
 ```
