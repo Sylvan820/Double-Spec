@@ -142,26 +142,11 @@ If memory or disk space is constrained, you can prune the datastore by setting a
 If you find our work useful in your research, please consider citing our ACL 2026 paper:
 
 ```bibtex
-@inproceedings{double2026acl,
-    title={Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism},
-    author={Sylvan820 and [Other Authors]},
-    booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)},
-    year={2026},
-    url={[https://arxiv.org/abs/2601.05524](https://arxiv.org/abs/2601.05524)}
+@article{shen2026double,
+  title={Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism},
+  author={Shen, Yuhao and Liu, Tianyu and Shen, Junyi and Wu, Jinyang and Kong, Quan and Huan, Li and Wang, Cong},
+  journal={arXiv preprint arXiv:2601.05524},
+  year={2026}
 }
-
-@misc{sylvan8202026doublebreakingaccelerationlimit,
-      title={Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism}, 
-      author={Sylvan820 and [Other Authors]},
-      year={2026},
-      eprint={2601.05524},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={[https://arxiv.org/abs/2601.05524](https://arxiv.org/abs/2601.05524)}, 
-}
-
-```
-
-```
 
 ```
